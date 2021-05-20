@@ -1,7 +1,7 @@
 # Case Profile Ontology
 An ontology-based personalization of health-care knowledge to support clinical decisions for chronically ill patients
 
-The Case Profile Ontology is an OWL-DL compliant ontology developed in the K4CARE project (http://www.k4care.net) in order to provide a formal representation of all the health-care concepts related to the care of chronically ill patients at home (i.e., syndromes, diseases, social issues, signs and symptoms, problem assessments, and interventions) and the relationships and constraints between these concepts.
+The Case Profile Ontology is an OWL-DL compliant ontology developed in the K4CARE project (`http://www.k4care.net` [Discontinued]) in order to provide a formal representation of all the health-care concepts related to the care of chronically ill patients at home (i.e., syndromes, diseases, social issues, signs and symptoms, problem assessments, and interventions) and the relationships and constraints between these concepts.
 
 Paper: https://doi.org/10.1016/j.jbi.2011.12.008
 
